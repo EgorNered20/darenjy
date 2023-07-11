@@ -50,8 +50,7 @@ const Home = () => {
         <footer className='footer' id='footer'>
             <Link style={{ textDecoration: 'none', color: 'white' }} to='/' >
                 <h6 className='text-center text-uppercase'>Copyright &copy; 2023, <strong>daren'jy</strong></h6>
-            </Link>
-            
+            </Link> 
         </footer>
     </>
     )
